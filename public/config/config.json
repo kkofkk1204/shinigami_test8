@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xA8348443e1b3640d131B2Eed8d642d76Cf71eDFD",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0xa8348443e1b3640d131b2eed8d642d76cf71edfd",
+  "NETWORK": {
+    "NAME": "Matic Mumbai",
+    "SYMBOL": "Matic",
+    "ID": 80001
+  },
+  "NFT_NAME": "Shinigami_test5_page",
+  "SYMBOL": "SHINIGANI_TEST5",
+  "MAX_SUPPLY": 20,
+  "WEI_COST": 50000000000000000,
+  "DISPLAY_COST": 0.05,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/shinigani-test5",
+  "SHOW_BACKGROUND": true
+}
